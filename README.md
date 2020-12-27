@@ -16,4 +16,6 @@ player will automatically win.
 Players and NPC have death animation which is too fast for plane to detect and hence pass-through plane and
 fall. 
 
+<img src="https://imgur.com/a/JJYNNZq" alt="B-IN level 1" style="max-width:100%;">
+
 Note: The Game Executable can be found in the Builds folder.
