@@ -18,4 +18,8 @@ fall.
 
 ![Imgur Image](https://imgur.com/ENT4zM0.jpg)
 
-Note: The Game Executable can be found in the Builds folder.
+![Imgur Image](https://imgur.com/GQMciMK.jpg)
+
+![Imgur Image](https://imgur.com/63BifR1.jpg)
+
+<br>Note:</br> The Game Executable can be found in the Builds folder.
