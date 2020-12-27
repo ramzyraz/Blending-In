@@ -22,4 +22,4 @@ fall.
 
 ![Imgur Image](https://imgur.com/63BifR1.jpg)
 
-<br>Note:</br> The Game Executable can be found in the Builds folder.
+<b>Note:</b> The Game Executable can be found in the Builds folder.
