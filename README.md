@@ -9,6 +9,7 @@ player will automatically win.
 
 ## Controls
 • Player one moves with W, A, S, D or Up, Down, Left, Right keys and attacks with the F key.
+
 • Player two moves with I, J, K, L keys and attacks with the Ykey
 
 ## Bugs/Improvements
