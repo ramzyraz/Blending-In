@@ -15,3 +15,5 @@ player will automatically win.
 ## Bugs/Improvements
 Players and NPC have death animation which is too fast for plane to detect and hence pass-through plane and
 fall. 
+
+Note: The Game Executable can be found in the Builds folder.
