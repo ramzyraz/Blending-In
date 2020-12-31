@@ -5,10 +5,12 @@ A 3D Unity Game Developed for CS452 Computer Graphics Project
 <ul>
   <li>
     <strong>Aiyan Tufail</strong>
+    -
     <a href="https://github.com/Aiyan6">Aiyan6</a>
   </li>
   <li>
     <strong>Ramez Salman</strong>
+    -
     <a href="https://github.com/ramzyraz">ramzyraz</a>
   </li>
 </ul>
