@@ -1,6 +1,18 @@
 # Blending-In
 A 3D Unity Game Developed for CS452 Computer Graphics Project
 
+## Team
+<ul>
+  <li>
+    <strong>Aiyan Tufail</strong>
+    <a href="https://github.com/Aiyan6">Aiyan6</a>
+  </li>
+  <li>
+    <strong>Ramez Salman</strong>
+    <a href="https://github.com/ramzyraz">ramzyraz</a>
+  </li>
+</ul>
+
 ## Game Objectives
 Each player will have 30 points initially. From among the characters present, the player needs to find the
 second player. A player will win automatically when he kills the second player. However, if he kills an NPC,
