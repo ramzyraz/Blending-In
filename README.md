@@ -22,10 +22,6 @@ https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple
 Sound FX - Retro Pack:
 https://assetstore.unity.com/packages/audio/sound-fx/sound-fx-retro-pack-121743
 
-## Bugs/Improvements
-Players and NPC have death animation which is too fast for plane to detect and hence pass-through plane and
-fall. 
-
 ## Scenes
 
 ![Imgur Image](https://imgur.com/ENT4zM0.jpg)
@@ -34,4 +30,8 @@ fall.
 
 ![Imgur Image](https://imgur.com/63BifR1.jpg)
 
+## Bugs/Improvements
+Players and NPC have death animation which is too fast for plane to detect and hence pass-through plane and fall. 
+
+#### Executable
 <b>Note:</b> The Game Executable can be found in the Builds folder.
