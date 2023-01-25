@@ -22,18 +22,18 @@ then he will get a 10-point deduction. If the player’s points fall to zero, he
 player will automatically win.
 
 ## Controls
-• Player one moves with W, A, S, D or Up, Down, Left, Right keys and attacks with the F key.
+* Player one moves with W, A, S, D or Up, Down, Left, Right keys and attacks with the F key.
 
-• Player two moves with I, J, K, L keys and attacks with the Y key
+* Player two moves with I, J, K, L keys and attacks with the Y key
 
 ## Imported Assets
-3rd Person Controller + Fly Mode:
+* 3rd Person Controller + Fly Mode:
 https://assetstore.unity.com/packages/templates/systems/3rd-person-controller-fly-mode-28647
 
-Low-Poly Simple Nature Pack:
+* Low-Poly Simple Nature Pack:
 https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
 
-Sound FX - Retro Pack:
+* Sound FX - Retro Pack:
 https://assetstore.unity.com/packages/audio/sound-fx/sound-fx-retro-pack-121743
 
 ## Bugs/Improvements
